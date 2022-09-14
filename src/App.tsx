@@ -49,7 +49,7 @@ export default function App() {
         win += 1
       }
     })
-    if (win === 10) { alert('You WIN motherFucker - and yes I am not going to implement a simple reset button just refresh the page') }
+    if (win === 10) { alert('You WIN') }
   }
 
   compare()
